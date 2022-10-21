@@ -9,3 +9,5 @@ Can't actually run this notebook in a public repo with a real API key because
 that would expose the key... to the public (always limit key usage, e.g. to
 specific IP addresses).
 
+Added scripts used in previous geocoding experiments.
+
